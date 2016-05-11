@@ -5,7 +5,7 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "I cannot deploy Windows to a machine": "Please read the build failure section of the following document: https://xnet.unisys.com/sites/GMSFieldOpsSupport/Unilever2015/Documents/IMAC/Unilever%20Windows%20Deployment%20Guide.docx - You will need to email UnileverTechSupport@unisys.com with the log files. With out the log files, no assistance can be provided",
     "SCCM will not work": "Please read the build failure section of the following document: https://xnet.unisys.com/sites/GMSFieldOpsSupport/Unilever2015/Documents/IMAC/Unilever%20Windows%20Deployment%20Guide.docx - You will need to email UnileverTechSupport@unisys.com with the log files. With out the log files, no assistance can be provided",
-    "I cannot image a machine": "Please read the build failure section of the following document: https://xnet.unisys.com/sites/GMSFieldOpsSupport/Unilever2015/Documents/IMAC/Unilever%20Windows%20Deployment%20Guide.docx - You will need to email UnileverTechSupport@unisys.com with the log files. With out the log files, no assistance can be provided",
+    "I cannot image a machine": "Please read the build failure section of the following %[document] (https://xnet.unisys.com/sites/GMSFieldOpsSupport/Unilever2015/Documents/IMAC/Unilever%20Windows%20Deployment%20Guide.docx)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
